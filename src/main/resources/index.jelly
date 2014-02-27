@@ -1,0 +1,3 @@
+<div>
+  This plugin adds a new slave retention strategy that does not reconnect if the node is temporarily marked offline by the user.
+</div>
