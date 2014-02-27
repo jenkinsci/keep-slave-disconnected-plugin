@@ -1,0 +1,2 @@
+keep-slave-disconnected-plugin
+==============================
