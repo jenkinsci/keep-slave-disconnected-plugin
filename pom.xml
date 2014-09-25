@@ -9,7 +9,7 @@
   <groupId>org.jenkins-ci.plugins</groupId>
   <name>Keep Offline Slaves Disconnected Retention Strategy Plugin</name>
   <artifactId>keep-slave-disconnected</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <packaging>hpi</packaging>
 
   <!-- get every artifact through repo.jenkins-ci.org, which proxies all the artifacts that we need -->
@@ -31,6 +31,6 @@
     <connection>scm:git:git://github.com/jenkinsci/${project.artifactId}-plugin.git</connection>
     <developerConnection>scm:git:git@github.com:jenkinsci/${project.artifactId}-plugin.git</developerConnection>
     <url>http://github.com/jenkinsci/${project.artifactId}-plugin</url>
-    <tag>keep-slave-disconnected-1.0</tag>
+    <tag>HEAD</tag>
   </scm>
 </project>
